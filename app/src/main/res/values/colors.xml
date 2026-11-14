@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_screen">#0B1215</color>
+    <color name="surface_card">#141F24</color>
+    <color name="surface_border">#22333B</color>
+    <color name="surface_card_emerald">#0E241C</color>
+    <color name="surface_border_emerald">#1D4D3B</color>
+    <color name="input_border">#2A3E48</color>
+
+    <color name="accent_emerald">#00E676</color>
+    <color name="accent_emerald_dark">#052113</color>
+    <color name="accent_cyan">#26C6DA</color>
+    <color name="status_warning">#FFB300</color>
+    <color name="status_danger">#EF5350</color>
+
+    <color name="button_secondary_bg">#19272E</color>
+    <color name="button_secondary_border">#2B3F4A</color>
+
+    <color name="text_primary">#F4F7F8</color>
+    <color name="text_secondary">#9EB0B8</color>
+    <color name="text_muted">#6E828C</color>
+
+    <color name="banner_green">#1B5E20</color>
+    <color name="banner_amber">#F57F17</color>
+    <color name="banner_red">#B71C1C</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
